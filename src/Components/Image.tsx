@@ -1,11 +1,11 @@
-import React from "react";
-
+// import React from "react";
+import ismail from '../Images/ismail.jpg'
 const Image = () => {
   return (
     <div className="">
       <div className="">
         <img
-          src="../Images/digital.jpg"
+          src={ismail}
           alt="Image is not found"
           className=""
         />

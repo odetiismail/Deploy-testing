@@ -7,6 +7,7 @@ import { FaCcPaypal } from "react-icons/fa";
 import { FaCcDiscover } from "react-icons/fa";
 import { FaChevronDown } from "react-icons/fa";
 import { FaChevronUp } from "react-icons/fa";
+// import BottomFooter from "./Components/BootemFooter";
 import BottomFooter from "./Components/BootemFooter";
 
 export const Footer = () => {

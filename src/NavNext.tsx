@@ -1,7 +1,9 @@
 import React, { useState } from "react";
 import { HiShoppingCart } from "react-icons/hi";
 import { FaHeart } from "react-icons/fa";
+// import { Search } from "./Components/Search";
 import { Search } from "./Components/Search";
+// import { NavLink/s } from "./Components/NavLinks";
 import { NavLinks } from "./Components/NavLinks";
 import { HiOutlineMenuAlt2 } from "react-icons/hi";
 import { ImCross } from "react-icons/im";
